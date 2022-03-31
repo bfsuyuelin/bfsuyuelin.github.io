@@ -1,0 +1,18 @@
+#header {
+    color:rgb(22, 7, 87);
+    margin-right: 15%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Arial Narrow', Arial, sans-serif;font-size: larger;font-weight: 300;
+    text-align:right;
+    padding: 40px;
+}
+#section {
+    width: 82%;
+    padding:50px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    background-color:#ececeed3;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: medium;
+    color: rgb(17, 8, 68);
+}
